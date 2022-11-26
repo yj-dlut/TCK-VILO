@@ -14,7 +14,9 @@ The results are Seq. 1 and Seq. 7, respectivey.
 </div>
 
 ### 2.2 Experiment results.
-
+<div align=center>
+<img src="img/Sequence collected by our mobile robot platform.jpg" width="499" height="272">
+</div>
 
 <p align="center">
 Sequence collected by our mobile robot.
