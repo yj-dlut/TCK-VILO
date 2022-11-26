@@ -14,10 +14,12 @@ The Sequences are Seq. 2, Seq. 5, Seq. 7, respectivey.
 </div>
 
 ### 2.2 Experiment results.
-
 <div align=center>
 <img src="img/Sequence collected by our mobile robot.jpg">
 </div>
+Sequence collected by our mobile robot.
+
 <div align=center>
 <img src="img/Sequence collected by our hand-henld device.jpg" width="499" height="272">
 </div>
+Sequence collected by our hand-henld device.
