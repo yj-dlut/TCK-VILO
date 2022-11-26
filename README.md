@@ -8,10 +8,11 @@ The Sequences are Seq. 2, Seq. 5, Seq. 7, respectivey.
 </div>
 
 ## 2. Experiments on Self-collected Dataset
-Our mobile robot platform and hand-held device.
+### 2.1 Our mobile robot platform and hand-held device.
 <div align=center>
 <img src="img/Our mobile robot.jpg" width="330" height="375"> <img src="img/Our hand-held device.jpg"  width="330" height="375"/>
 </div>
+### 2.2 Experiment results.
 <div align=center>
 <img src="img/Sequence collected by our mobile robot.jpg">
 </div>
