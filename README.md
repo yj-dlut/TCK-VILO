@@ -4,7 +4,7 @@ A Tightly-Coupled and Keyframe-Based Visual-Inertial-Lidar Odometry System for M
 ## 1. Experiments on Newer College Dataset
 The results are Seq. 1 and Seq. 7, respectivey.
 <div align=center>
-<img src="img/NC1.jpg" width="400" height="300"><img src="img/NC7.jpg" width="400" height="300"/>
+<img src="img/Newer College Dataset Seq1.jpg" width="400" height="300"><img src="img/Newer College Dataset Seq7.jpg" width="400" height="300"/>
 </div>
 
 ## 2. Experiments on Self-collected Dataset
