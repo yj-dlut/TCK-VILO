@@ -17,9 +17,15 @@ The Sequences are Seq. 2, Seq. 5, Seq. 7, respectivey.
 <div align=center>
 <img src="img/Sequence collected by our mobile robot.jpg">
 </div>
+
+<p align="center">
 Sequence collected by our mobile robot.
+</p>
 
 <div align=center>
 <img src="img/Sequence collected by our hand-henld device.jpg" width="499" height="272">
 </div>
+
+<p align="center">
 Sequence collected by our hand-henld device.
+</p>
