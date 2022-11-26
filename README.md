@@ -9,5 +9,5 @@ The Sequences are Seq. 2, Seq. 5, Seq. 7, respectivey.
 
 ## 2. Experiments on Self-collected Dataset
 <div align=center>
-<img src="img/NC2.jpg" width="320" height="270"><img src="img/NC5.jpg" width="320" height="270"><img src="img/NC7.jpg" width="320" height="270"/>
+<img src="Our mobile robot.jpg" width="320" height="270"><img src="Our hand-held device.jpg" width="320" height="270">/>
 </div>
