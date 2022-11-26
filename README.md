@@ -13,8 +13,8 @@ Our mobile robot platform and hand-held device.
 <img src="img/Our mobile robot.jpg" width="330" height="375"> <img src="img/Our hand-held device.jpg"  width="330" height="375"/>
 </div>
 <div align=center>
-<img src="imgSequence collected by our mobile robot.jpg">
+<img src="img/Sequence collected by our mobile robot.jpg">
 </div>
 <div align=center>
-<img src="img/Sequence collected by our hand-held device.jpg">
+<img src="img/Sequence collected by our hand-henld device.jpg">
 </div>
